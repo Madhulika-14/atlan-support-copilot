@@ -21,3 +21,10 @@ numpy
 python-dotenv
 streamlit
 pydantic
+streamlit==1.29.0
+openai>=1.0.0
+requests
+beautifulsoup4
+python-dotenv
+faiss-cpu  
+numpy
