@@ -2,32 +2,32 @@
   {
     "id": "t1",
     "subject": "Can't connect Snowflake connector",
-    "body": "I followed the steps but the Snowflake connector fails with auth error code 401.",
+    "body": "The Snowflake connector fails when I try to authenticate.",
     "channel": "email"
   },
   {
     "id": "t2",
     "subject": "How to invite a new teammate?",
-    "body": "I want to add a new member to my Atlan workspace but cannot find the option.",
+    "body": "I want to add a new member to my workspace.",
     "channel": "chat"
   },
   {
     "id": "t3",
     "subject": "API rate limit exceeded",
-    "body": "We are hitting API rate limit errors when exporting metadata via SDK.",
-    "channel": "slack"
+    "body": "The API is giving 429 errors when I call multiple times.",
+    "channel": "email"
   },
   {
     "id": "t4",
     "subject": "Lineage graph not updating",
-    "body": "My lineage graph doesn’t reflect the latest changes in Snowflake after sync.",
-    "channel": "email"
+    "body": "The lineage graph is stuck and does not refresh after changes.",
+    "channel": "chat"
   },
   {
     "id": "t5",
     "subject": "SSO login issue with Okta",
-    "body": "Our Okta SSO integration fails with error invalid_signature.",
-    "channel": "whatsapp"
+    "body": "Users are not able to log in via Okta SSO anymore.",
+    "channel": "email"
   }
 ]
 
